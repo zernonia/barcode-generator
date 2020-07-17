@@ -1,6 +1,6 @@
 {
   "name": "barcode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -14,7 +14,8 @@
   "dependencies": {
     "fabric": "^3.6.3",
     "vue": "^2.6.11",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "xlsx": "^0.16.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-vuex": "~4.4.0",
